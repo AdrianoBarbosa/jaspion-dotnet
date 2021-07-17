@@ -1,2 +1,4 @@
-# jaspion-dotnet
-A simple .Net Core boilerplate
+# JASPION
+## Just Another Simple Project Interactive Of N-thing
+
+A boilerplate for studies using .Net Core
