@@ -5,7 +5,7 @@ Boilerplate of API in `.NET 5`
 ## To-Do
 
 - [x] Swagger
-- [ ] Editor Config
+- [x] Editor Config
 - [ ] ORM
 - [ ] Health Check
 - [ ] Example
