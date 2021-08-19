@@ -1,6 +1,6 @@
 using System;
 
-namespace jaspion_dotnet_api
+namespace WebApi
 {
     public class WeatherForecast
     {

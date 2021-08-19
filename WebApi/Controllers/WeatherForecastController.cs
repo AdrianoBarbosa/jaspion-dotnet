@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 
-namespace jaspion_dotnet_api.Controllers
+namespace WebApi.Controllers
 {
     [ApiController]
     [Route("[controller]")]
